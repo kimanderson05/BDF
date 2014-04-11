@@ -23,11 +23,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.561674" vertical-offset="0" max-vertical-offset="454">
+            <state line="4" column="31" selection-start="95" selection-end="95" vertical-scroll-proportion="-1.4166666" vertical-offset="26" max-vertical-offset="480">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.inc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/header.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="35" selection-start="221" selection-end="221" vertical-scroll-proportion="0.34802786" vertical-offset="0" max-vertical-offset="431">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/ViewModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="23" selection-start="369" selection-end="369" vertical-scroll-proportion="-13.125" vertical-offset="45" max-vertical-offset="570">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DB.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/DB.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="21" selection-start="192" selection-end="192" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetsModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="28" selection-start="584" selection-end="584" vertical-scroll-proportion="-11.416667" vertical-offset="191" max-vertical-offset="675">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+                <marker date="1397183013000" expanded="true" signature="259:299" placeholder="SELECT * FRO..usersPetOwners..." />
+                <marker date="1397183013000" expanded="true" signature="515:584" placeholder="SELECT * FRO..usersPetOwners..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="body.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/body.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="18" selection-start="130" selection-end="130" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="24" selection-start="221" selection-end="221" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="345">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,15 +108,26 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/models/DB.php" />
+        <option value="$PROJECT_DIR$/views/footer.inc" />
+        <option value="$PROJECT_DIR$/models/viewModel.php" />
+        <option value="$PROJECT_DIR$/models/PetsModel.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/models/ViewModel.php" />
+        <option value="$PROJECT_DIR$/views/details.php" />
+        <option value="$PROJECT_DIR$/views/body.php" />
+        <option value="$PROJECT_DIR$/views/header.inc" />
       </list>
     </option>
   </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="inc" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="101" />
-    <option name="width" value="789" />
+    <option name="x" value="25" />
+    <option name="y" value="285" />
+    <option name="width" value="960" />
     <option name="height" value="575" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -97,6 +174,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC_Read" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC_Read" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC_Read" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC_Read" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -131,7 +236,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="101" width="789" height="575" extended-state="0" />
+    <frame x="25" y="285" width="960" height="575" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -139,7 +244,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14828898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21145834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -171,9 +276,70 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/footer.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="192" selection-end="192" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="221" selection-end="221" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/body.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="130" selection-end="130" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="28" selection-start="584" selection-end="584" vertical-scroll-proportion="-11.416667" vertical-offset="191" max-vertical-offset="675">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+            <marker date="1397183013000" expanded="true" signature="259:299" placeholder="SELECT * FRO..usersPetOwners..." />
+            <marker date="1397183013000" expanded="true" signature="515:584" placeholder="SELECT * FRO..usersPetOwners..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/ViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="23" selection-start="369" selection-end="369" vertical-scroll-proportion="-13.125" vertical-offset="45" max-vertical-offset="570">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="423" selection-end="423" vertical-scroll-proportion="0.561674" vertical-offset="0" max-vertical-offset="454">
+        <state line="4" column="31" selection-start="95" selection-end="95" vertical-scroll-proportion="-1.4166666" vertical-offset="26" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="35" selection-start="221" selection-end="221" vertical-scroll-proportion="0.34802786" vertical-offset="0" max-vertical-offset="431">
           <folding />
         </state>
       </provider>
