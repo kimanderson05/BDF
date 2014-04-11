@@ -11,7 +11,7 @@ echo <<< __END
 <h2>${row['firstName']} ${row['lastName']}</h2>
 <ul class="ul_info">
     <li class="li_info">Username: ${row['userName']}</li>
-    <li class="li_info">Password: ******</li>
+    <li class="li_info">Password: ${row['password']}</li>
 </ul>
 
 __END;
