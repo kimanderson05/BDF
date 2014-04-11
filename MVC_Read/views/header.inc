@@ -7,5 +7,7 @@
 </head>
 
 <body>
+<div id="header_info">
 <h1>Pet Training Site</h1>
-<p>Choose a trainer to view details.</p>
+<p>Keeping all your pet data organized!</p>
+</div>

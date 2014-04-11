@@ -9,9 +9,9 @@
 echo <<< __END
 
 <h2>${row['firstName']} ${row['lastName']}</h2>
-<ul>
-    <li>Username: ${row['userName']}</li>
-    <li>Password: ******</li>
+<ul class="ul_info">
+    <li class="li_info">Username: ${row['userName']}</li>
+    <li class="li_info">Password: ******</li>
 </ul>
 
 __END;

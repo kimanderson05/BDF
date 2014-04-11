@@ -17,7 +17,6 @@ class ViewModel{
     }
 
     public function showList($value){
-
         include 'views/body.php';
     }
 

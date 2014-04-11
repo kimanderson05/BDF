@@ -1,0 +1,26 @@
+body{
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    width: 560px;
+    background-color: #999;
+}
+
+#header_info{
+    margin-bottom: 50px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+.ul_info{
+    background-color: #fff;
+    border: 1px solid black;
+    width: 250px;
+    padding: 20px;
+}
+
+.li_info{
+    list-style-type: none;
+}
