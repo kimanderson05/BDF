@@ -41,10 +41,10 @@ class PetsModel{
 
     public function loginInfo($name, $pass){
         $stmt = $this->dbase->prepare("
-            SELECT userId AS id, userName AS name, userPassword AS pass
+            SELECT userId AS id, userName AS name, userPassword AS pass, userSalt
             FROM PetOwners
             WHERE (userName = :name)
-              AND (userPassword = :pass)
+              AND (userPassword = MD5(CONCAT(:pass, userSalt)))
         ");
 
         if ($stmt->execute(array(':name' => $name, ':pass' => $pass))){

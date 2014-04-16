@@ -17,3 +17,6 @@ foreach ($data as $row){
 __END;
 
 }
+?>
+
+<a href="logout.php" class="logout">Logout</a>
