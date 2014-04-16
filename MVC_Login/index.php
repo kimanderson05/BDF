@@ -52,7 +52,7 @@ if(!empty($_SESSION['userInfo'])){
         }
     }
 }
-
+#this shows the header, body, and footer
 $view->show('header');
 $view->show($contentPage, $user, $data);
 $view->show('footer');
