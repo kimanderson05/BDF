@@ -17,7 +17,7 @@ class PetsModel{
     public function getAll(){
         $sql = "
             SELECT *
-            FROM PetOwners";
+            FROM usersPetOwners";
         $statement = $this->dbase->prepare($sql);
         $statement->execute();
 
@@ -28,7 +28,7 @@ class PetsModel{
     public function getDetailed($id){
         $sql = "
             SELECT *
-            FROM PetOwners
+            FROM usersPetOwners
             WHERE userId=$id
             ";
         $statement = $this->dbase->prepare($sql);
