@@ -6,5 +6,5 @@
     <input type="text" name="username" id="username" maxlength="50" size="20"/><br/>
     <label for="password">Password:</label>
     <input type="password" name="password" id="password" maxlength="50" size="20"/><br/>
-    <input type="submit"/>
+    <input type="submit" class="logout" value="Submit"/>
 </form>
