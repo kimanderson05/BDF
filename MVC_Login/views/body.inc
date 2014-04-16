@@ -11,7 +11,7 @@ echo <<< __END
 
 __END;
 
-foreach ($value as $row){
+foreach ($data as $row){
     echo <<< __END
 <a href="index.php?userId=${row['userId']}">${row['firstName']} ${row['lastName']}</a><br/>
 __END;

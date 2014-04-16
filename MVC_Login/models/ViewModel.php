@@ -17,7 +17,7 @@ class ViewModel{
     }
 
     public function showList($value){
-        include 'views/body.php';
+        include 'views/body.inc';
     }
 
     public function showDetailed($value){
@@ -27,6 +27,13 @@ class ViewModel{
 
     public function showFooter(){
         include 'views/footer.inc';
+    }
+
+    public function show($template, $user = '', $data =''){
+        $path = "views/${template}.inc";
+        if(file_exists($path)){
+            include $path;
+        }
     }
 
 }

@@ -4,8 +4,8 @@ require_once "../models/DB.php";
 require_once "AuthModel.php";
 require_once "AuthView.php";
 
-$model = new AuthModel(DBASE, UNAME, PWORD);
-$view = new AuthView();
+$model = new PetModel(DBASE, UNAME, PWORD);
+$view = new ViewModel();
 
 $username = empty($_POST['username']) ? '' : strtolower(trim($_POST['username']));
 $password = empty($_POST['password']) ? '' : trim($_POST['password']);
@@ -19,6 +19,6 @@ if (!empty($username) && !empty($password)){
     }
 }
 
-$view-->show('../views/header.inc');
+$view-->show('header');
 $view-->show($contentPage, $user);
-$view-->show('../views/footer.inc');
+$view-->show('footer');
