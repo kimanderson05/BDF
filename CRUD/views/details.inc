@@ -20,6 +20,7 @@ if(count($data) == 1){
 
 <a href="index.php?updateUser=${row['userId']}" class="user">Update</a>
 <a href="index.php?deleteUser=${row['userId']}" class="user">Delete</a>
+<a href="index.php" class="back">Back</a>
 
 __END;
 }

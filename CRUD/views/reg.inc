@@ -17,5 +17,5 @@ echo <<< __END
     <input type="submit" class="logout" value="Submit"/>
 </form>
 
-<a href="index.php" class="user">Back</a>
+<a href="index.php" class="back2">Back</a>
 __END;
