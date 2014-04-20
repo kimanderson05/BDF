@@ -35,7 +35,7 @@
       <file leaf-file-name="details.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/details.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="47" selection-start="467" selection-end="467" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="405">
+            <state line="21" column="25" selection-start="435" selection-end="435" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="reg.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/reg.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="31" selection-start="688" selection-end="688" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+            <state line="5" column="29" selection-start="79" selection-end="79" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="update.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/update.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="533" selection-end="533" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="450">
+            <state line="8" column="44" selection-start="150" selection-end="179" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -71,16 +71,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="55" selection-start="809" selection-end="809" vertical-scroll-proportion="0.5334928" vertical-offset="182" max-vertical-offset="900">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="13" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="623" max-vertical-offset="1920">
+            <state line="68" column="34" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.8564593" vertical-offset="662" max-vertical-offset="1215">
               <folding />
             </state>
           </provider>
@@ -89,11 +80,16 @@
       <file leaf-file-name="PetsModel.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="1466" selection-end="1466" vertical-scroll-proportion="-21.166666" vertical-offset="287" max-vertical-offset="915">
+            <state line="94" column="17" selection-start="2605" selection-end="2605" vertical-scroll-proportion="-9.916667" vertical-offset="1097" max-vertical-offset="1560">
               <folding>
-                <marker date="1397960149000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
-                <marker date="1397960149000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
-                <marker date="1397960149000" expanded="true" signature="1006:1203" placeholder="SELECT userI..PetOwners..." />
+                <marker date="1397971773000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
+                <marker date="1397971773000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
+                <marker date="1397971773000" expanded="true" signature="1006:1203" placeholder="SELECT userI..PetOwners..." />
+                <marker date="1397971773000" expanded="true" signature="1569:1669" placeholder="UPDATE PetOw..." />
+                <marker date="1397971773000" expanded="true" signature="1598:1669" placeholder="SELECT email..PetOwners..." />
+                <marker date="1397971773000" expanded="true" signature="2120:2253" placeholder="INSERT into ..." />
+                <marker date="1397971773000" expanded="true" signature="2131:2244" placeholder="UPDATE PetOw..." />
+                <marker date="1397971773000" expanded="true" signature="2566:2618" placeholder="DELETE from ..." />
               </folding>
             </state>
           </provider>
@@ -121,13 +117,13 @@
         <option value="$PROJECT_DIR$/reg.inc" />
         <option value="$PROJECT_DIR$/views/details.php" />
         <option value="$PROJECT_DIR$/models/ViewModel.php" />
-        <option value="$PROJECT_DIR$/views/reg.inc" />
-        <option value="$PROJECT_DIR$/models/PetsModel.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/stylesheet.css" />
         <option value="$PROJECT_DIR$/views/body.inc" />
         <option value="$PROJECT_DIR$/views/update.inc" />
+        <option value="$PROJECT_DIR$/views/reg.inc" />
         <option value="$PROJECT_DIR$/views/details.inc" />
+        <option value="$PROJECT_DIR$/models/PetsModel.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -136,8 +132,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="540" />
-    <option name="y" value="66" />
+    <option name="x" value="305" />
+    <option name="y" value="148" />
     <option name="width" value="764" />
     <option name="height" value="575" />
   </component>
@@ -214,20 +210,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CRUD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CRUD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -267,7 +249,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="66" width="764" height="575" extended-state="0" />
+    <frame x="305" y="148" width="764" height="575" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/ViewModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="59" selection-start="589" selection-end="589" vertical-scroll-proportion="-9.833333" vertical-offset="154" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="61" column="13" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="623" max-vertical-offset="1920">
@@ -412,20 +387,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
+    <entry file="file://$PROJECT_DIR$/models/ViewModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="1466" selection-end="1466" vertical-scroll-proportion="-21.166666" vertical-offset="287" max-vertical-offset="915">
-          <folding>
-            <marker date="1397960149000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1397960149000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1397960149000" expanded="true" signature="1006:1203" placeholder="SELECT userI..PetOwners..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/reg.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="688" selection-end="688" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+        <state line="31" column="59" selection-start="589" selection-end="589" vertical-scroll-proportion="-9.833333" vertical-offset="154" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
@@ -437,16 +401,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/reg.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="79" selection-end="79" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/update.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="533" selection-end="533" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="450">
+        <state line="8" column="44" selection-start="150" selection-end="179" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/details.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="47" selection-start="467" selection-end="467" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="405">
+        <state line="21" column="25" selection-start="435" selection-end="435" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
@@ -458,9 +429,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="17" selection-start="2605" selection-end="2605" vertical-scroll-proportion="-9.916667" vertical-offset="1097" max-vertical-offset="1560">
+          <folding>
+            <marker date="1397971773000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1397971773000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1397971773000" expanded="true" signature="1006:1203" placeholder="SELECT userI..PetOwners..." />
+            <marker date="1397971773000" expanded="true" signature="1569:1669" placeholder="UPDATE PetOw..." />
+            <marker date="1397971773000" expanded="true" signature="1598:1669" placeholder="SELECT email..PetOwners..." />
+            <marker date="1397971773000" expanded="true" signature="2120:2253" placeholder="INSERT into ..." />
+            <marker date="1397971773000" expanded="true" signature="2131:2244" placeholder="UPDATE PetOw..." />
+            <marker date="1397971773000" expanded="true" signature="2566:2618" placeholder="DELETE from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="55" selection-start="809" selection-end="809" vertical-scroll-proportion="0.5334928" vertical-offset="182" max-vertical-offset="900">
+        <state line="68" column="34" selection-start="2503" selection-end="2503" vertical-scroll-proportion="0.8564593" vertical-offset="662" max-vertical-offset="1215">
           <folding />
         </state>
       </provider>

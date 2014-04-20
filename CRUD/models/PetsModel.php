@@ -57,5 +57,48 @@ class PetsModel{
         return FALSE;
     }
 
+    public function updateUser($id,$email,$pass){
+        $stmt = $this->dbase->prepare("
+            UPDATE PetOwners
+            SET email = :email, userPassword = :pass
+            WHERE userId = :id
+        ");
+
+        if ($stmt->execute(array(':id' => $id, ':email' => $email, ':pass' => $pass))){
+//            $rows = $stmt->fetchAll(\PDO::FETCH_ASSOC);
+//            if(count($rows)=== 1){
+//                return $rows[0];
+//            }
+            return $this->getDetailed($id);
+        }
+
+        return FALSE;
+    }
+
+    public function addUser($email,$pass, $fName, $lName, $uName){
+        $stmt = $this->dbase->prepare("
+            INSERT into PetOwners (email, userPassword, firstName, lastName, userName)
+            VALUES (:email, :pass, :fName, :lName, :uName)
+        ");
+
+        if ($stmt->execute(array(':email' => $email, ':pass' => $pass, ':fName' => $fName, ':lName' => $lName, ':uName' =>$uName))){
+
+            return $this->getAll();
+        }
+
+        return FALSE;
+    }
+
+    public function deleteUser($id){
+        $stmt = $this->dbase->prepare("
+            DELETE from PetOwners
+            WHERE userId = :id
+        ");
+        if ($stmt->execute(array(':id' => $id))){
+            return $this->getAll();
+        }
+
+        return FALSE;
+    }
 
 }

@@ -15,11 +15,11 @@ if(count($data) == 1){
 <h2>${row['firstName']} ${row['lastName']}</h2>
 <ul class="ul_info">
     <li class="li_info">Username: ${row['userName']}</li>
-    <li class="li_info">Password: ${row['userPassword']}</li>
+    <li class="li_info">Email: ${row['email']}</li>
 </ul>
 
 <a href="index.php?updateUser=${row['userId']}" class="user">Update</a>
-<a href="index.php?updateUser=${row['userId']}" class="user">Delete</a>
+<a href="index.php?deleteUser=${row['userId']}" class="user">Delete</a>
 
 __END;
 }
