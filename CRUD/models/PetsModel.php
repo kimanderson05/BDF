@@ -41,7 +41,7 @@ class PetsModel{
 
     public function loginInfo($name, $pass){
         $stmt = $this->dbase->prepare("
-            SELECT userId AS id, userName AS name, userPassword AS pass, userSalt
+            SELECT userId AS id, userName AS name, userPassword AS pass, userSalt, admin
             FROM PetOwners
             WHERE (userName = :name)
               AND (userPassword = MD5(CONCAT(:pass, userSalt)))
