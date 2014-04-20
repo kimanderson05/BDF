@@ -31,10 +31,10 @@ class PetsModel{
         $sql = "
             SELECT *
             FROM PetOwners
-            WHERE userId=$id
+            WHERE userId = :id
             ";
         $statement = $this->dbase->prepare($sql);
-        $statement->execute();
+        $statement->execute(array(':id' => $id));
 
         return $statement->fetchAll(\PDO::FETCH_ASSOC);
     }
@@ -56,5 +56,6 @@ class PetsModel{
 
         return FALSE;
     }
+
 
 }

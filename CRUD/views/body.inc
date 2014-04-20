@@ -18,5 +18,5 @@ __END;
 
 }
 ?>
-
-<a href="logout.php" class="logout">Logout</a>
+<a href="index.php?regUser=true" class="user">Add User</a>
+<a href="logout.php" class="user">Logout</a>

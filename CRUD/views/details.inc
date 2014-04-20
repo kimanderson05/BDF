@@ -1,3 +1,5 @@
+
+
 <?php
 /**
  * Created by PhpStorm.
@@ -6,7 +8,9 @@
  * Time: 9:03 PM
  */
 
-echo <<< __END
+if(count($data) == 1){
+    $row = $data[0];
+    echo <<< __END
 
 <h2>${row['firstName']} ${row['lastName']}</h2>
 <ul class="ul_info">
@@ -14,4 +18,9 @@ echo <<< __END
     <li class="li_info">Password: ${row['userPassword']}</li>
 </ul>
 
+<a href="index.php?updateUser=${row['userId']}" class="user">Update</a>
+<a href="index.php?updateUser=${row['userId']}" class="user">Delete</a>
+
 __END;
+}
+
