@@ -30,8 +30,24 @@ h2{
     list-style-type: none;
 }
 
+form{
+    width: 400px;
+}
+
+.label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    margin: 5px 20px 5px 50px;
+}
+
+.input{
+    display: inline-block;
+    float: right;
+}
+
 .logout {
-    margin-top: 20px;
+    margin: 30px 0px 0px 182px;
     -moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
     -webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
     box-shadow:inset 0px 1px 0px 0px #fce2c1;
