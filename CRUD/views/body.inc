@@ -20,3 +20,4 @@ __END;
 ?>
 <a href="index.php?regUser=true" class="user">Add User</a>
 <a href="logout.php" class="user">Logout</a>
+
