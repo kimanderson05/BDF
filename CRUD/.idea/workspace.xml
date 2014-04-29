@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.inc" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/header.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0877193" vertical-offset="0" max-vertical-offset="513">
+            <state line="5" column="70" selection-start="76" selection-end="142" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PetsModel.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PetsModel.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="20" selection-start="671" selection-end="671" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="1560">
+            <state line="31" column="20" selection-start="671" selection-end="671" vertical-scroll-proportion="0.78" vertical-offset="0" max-vertical-offset="1560">
               <folding>
                 <marker date="1397972771000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
                 <marker date="1397972771000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
@@ -662,9 +662,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="70" selection-start="76" selection-end="142" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/models/PetsModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="20" selection-start="671" selection-end="671" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="1560">
+        <state line="31" column="20" selection-start="671" selection-end="671" vertical-scroll-proportion="0.78" vertical-offset="0" max-vertical-offset="1560">
           <folding>
             <marker date="1397972771000" expanded="true" signature="412:447" placeholder="SELECT * FRO..PetOwners..." />
             <marker date="1397972771000" expanded="true" signature="663:729" placeholder="SELECT * FRO..PetOwners..." />
@@ -675,20 +689,6 @@
             <marker date="1397972771000" expanded="true" signature="2138:2251" placeholder="UPDATE PetOw..." />
             <marker date="1397972771000" expanded="true" signature="2573:2625" placeholder="DELETE from ..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/footer.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0877193" vertical-offset="0" max-vertical-offset="513">
-          <folding />
         </state>
       </provider>
     </entry>

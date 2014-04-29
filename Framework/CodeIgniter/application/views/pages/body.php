@@ -16,5 +16,6 @@ echo "<a href="
     . site_url("details/${row['userId']}")
     . ">${row['firstName']} ${row['lastName']}</a><br/>";
 }
+
 ?>
 

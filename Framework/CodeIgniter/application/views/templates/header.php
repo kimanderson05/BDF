@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Pet Training Database</title>
-    <link href="stylesheet.css" rel="stylesheet" type="text/css"/>
+    <link href='<?=base_url()?>stylesheet.css' rel="stylesheet" type="text/css"/>
 </head>
 
 <body>
