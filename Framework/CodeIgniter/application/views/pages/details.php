@@ -19,4 +19,4 @@ __END;
 }
 ?>
 
-<a href="<?php site_url('body'); ?>" class="back">Back</a>
+<a href="<?php echo site_url('body'); ?>" class="back">Back</a>

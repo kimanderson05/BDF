@@ -26,7 +26,7 @@
       <file leaf-file-name="details.inc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/details.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="6" selection-start="531" selection-end="531" vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="513">
+            <state line="12" column="18" selection-start="150" selection-end="150" vertical-scroll-proportion="0.20467836" vertical-offset="0" max-vertical-offset="513">
               <folding />
             </state>
           </provider>
@@ -687,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/details.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="6" selection-start="531" selection-end="531" vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="513">
+        <state line="12" column="18" selection-start="150" selection-end="150" vertical-scroll-proportion="0.20467836" vertical-offset="0" max-vertical-offset="513">
           <folding />
         </state>
       </provider>
