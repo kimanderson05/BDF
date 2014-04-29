@@ -32,19 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="58" selection-start="537" selection-end="537" vertical-scroll-proportion="-0.625" vertical-offset="225" max-vertical-offset="5520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="6" selection-start="267" selection-end="267" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+            <state line="5" column="16" selection-start="88" selection-end="88" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -53,7 +44,7 @@
       <file leaf-file-name="reg.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/pages/reg.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -62,7 +53,7 @@
       <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/pages/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+            <state line="9" column="7" selection-start="497" selection-end="497" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -71,7 +62,7 @@
       <file leaf-file-name="update.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/pages/update.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
+            <state line="20" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -88,23 +79,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="details.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="details.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/pages/details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="6" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="405">
+            <state line="13" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.49618322" vertical-offset="0" max-vertical-offset="393">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pages.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/pages.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="44" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.6129808" vertical-offset="405" max-vertical-offset="855">
+            <state line="47" column="46" selection-start="1126" selection-end="1126" vertical-scroll-proportion="-9.208333" vertical-offset="409" max-vertical-offset="825">
               <folding>
-                <marker date="1398719026000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
-                <marker date="1398719026000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
+                <marker date="1398733719000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
+                <marker date="1398733719000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="217" column="16" selection-start="6924" selection-end="6924" vertical-scroll-proportion="0.0" vertical-offset="3063" max-vertical-offset="3540">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,7 +133,6 @@
         <option value="$PROJECT_DIR$/application/models/Helloworld_model.php" />
         <option value="$PROJECT_DIR$/application/views/helloworld_view.php" />
         <option value="$PROJECT_DIR$/application/controllers/helloworld.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
         <option value="$PROJECT_DIR$/application/views/templates/footer.php" />
         <option value="$PROJECT_DIR$/application/views/pages/reg.php" />
         <option value="$PROJECT_DIR$/application/views/pages/form.php" />
@@ -143,8 +142,11 @@
         <option value="$PROJECT_DIR$/application/views/pages/body.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
-        <option value="$PROJECT_DIR$/application/views/pages/details.php" />
+        <option value="$PROJECT_DIR$/application/models/getId.php" />
         <option value="$PROJECT_DIR$/application/controllers/pages.php" />
+        <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/details.php" />
       </list>
     </option>
   </component>
@@ -197,96 +199,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeIgniter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,8 +329,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="330">
           <folding>
-            <marker date="1398719026000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1398719026000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
           </folding>
         </state>
       </provider>
@@ -478,8 +390,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="330">
           <folding>
-            <marker date="1398719026000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1398719026000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
           </folding>
         </state>
       </provider>
@@ -546,8 +458,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="19" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="405">
           <folding>
-            <marker date="1398719026000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1398719026000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
           </folding>
         </state>
       </provider>
@@ -574,27 +486,6 @@
         <state line="1" column="3" selection-start="4" selection-end="4" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="225" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pages/reg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pages/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pages/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="463">
@@ -616,19 +507,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="6" selection-start="267" selection-end="267" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/pages/body.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="390">
           <folding>
             <element signature="e#6#84#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="497" selection-end="497" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="58" selection-start="537" selection-end="537" vertical-scroll-proportion="0.037220843" vertical-offset="225" max-vertical-offset="5520">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -639,27 +551,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/pages.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="58" selection-start="537" selection-end="537" vertical-scroll-proportion="-0.625" vertical-offset="225" max-vertical-offset="5520">
+        <state line="47" column="46" selection-start="1126" selection-end="1126" vertical-scroll-proportion="-9.208333" vertical-offset="409" max-vertical-offset="825">
+          <folding>
+            <marker date="1398733719000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
+            <marker date="1398733719000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="16" selection-start="6924" selection-end="6924" vertical-scroll-proportion="0.0" vertical-offset="3063" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="88" selection-end="88" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/pages/details.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="6" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="405">
+        <state line="13" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.49618322" vertical-offset="0" max-vertical-offset="393">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/pages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="44" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.6129808" vertical-offset="405" max-vertical-offset="855">
-          <folding>
-            <marker date="1398719026000" expanded="true" signature="426:461" placeholder="SELECT * FRO..PetOwners..." />
-            <marker date="1398719026000" expanded="true" signature="1007:1075" placeholder="SELECT * FRO..PetOwners..." />
-          </folding>
         </state>
       </provider>
     </entry>

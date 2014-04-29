@@ -11,8 +11,6 @@ if(count($query) == 1){
     <li class="li_info">Email: ${row['email']}</li>
 </ul>
 
-<a href="index.php?updateUser=${row['userId']}" class="user">Update</a>
-<a href="index.php?deleteUser=${row['userId']}" class="user">Delete</a>
 
 
 __END;
